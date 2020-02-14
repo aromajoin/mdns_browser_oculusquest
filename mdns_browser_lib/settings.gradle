@@ -1,0 +1,2 @@
+include ':app', ':mdns_browser'
+rootProject.name='mdns_browser_lib'
